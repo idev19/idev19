@@ -13,6 +13,7 @@
   - Developing microservices architectures
   - Database optimization and management
   - Server-side application development
+    
 🌱 Passionate about clean code, design patterns, and software architecture
 ⚡ Always exploring new backend technologies and best practices
 🤝 Open to collaborating on backend-focused projects and system design challenges
