@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 
-💻 Backend Developer with expertise in building robust and scalable server-side applications
-🔨 Core expertise in C#, Java, Python, and Node.js
+💻 Backend Developer with expertise in building robust and scalable server-side applications  
+🔨 Core expertise in C#, Java, Python, and Node.js  
 🎯 Specializing in:
   - Designing and implementing high-performance RESTful APIs
   - Developing microservices architectures
